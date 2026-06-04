@@ -1,0 +1,2 @@
+allowBuilds:
+  '@discordjs/opus': set this to true or false
